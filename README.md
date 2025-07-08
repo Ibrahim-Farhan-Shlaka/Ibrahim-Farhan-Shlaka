@@ -2,6 +2,7 @@
 <h3 align="center">Computer engineer & 3D designer</h3>
 
 <p align="left"> <a href="https://twitter.com/lshape_shifterl" target="blank"><img src="https://img.shields.io/twitter/follow/lshape_shifterl?logo=twitter&style=for-the-badge" alt="lshape_shifterl" /></a> </p>
+
 - 👨‍🎓 Currently studying at **Yildiz Technical University**
 
 - 🔭 I’m currently working on [an interactive spatial data structures website](https://spatialdatastructures.netlify.app/)
@@ -11,7 +12,9 @@
 - 📫 You can reach out to me at **ibrahimfarhanshlaka@gmail.com**
 
 - ⚡ Fun fact **im pretty good in blender :)**
+  
 - All my blender projects are [here](https://www.cgtrader.com/engigraph)
+  
 - and if you would like a commission then contact me at **engigraph@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
