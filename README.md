@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Ibrahim Farhan SHlaka</h1>
+<h1 align="center">Hi 👋, I'm Ibrahim Farhan Shlaka</h1>
 <h3 align="center">A computer engineer & 3D designer</h3>
 
 <p align="left"> <a href="https://twitter.com/lshape_shifterl" target="blank"><img src="https://img.shields.io/twitter/follow/lshape_shifterl?logo=twitter&style=for-the-badge" alt="lshape_shifterl" /></a> </p>
