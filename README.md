@@ -1,20 +1,3 @@
-## Hi there 👋
-
-<!--
-**Ibrahim-Farhan-Shlaka/Ibrahim-Farhan-Shlaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Ibrahim Farhan Shlaka</h1>
 <h3 align="center">A computer engineer & 3D designer</h3>
 
@@ -24,9 +7,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **python, javascript, and more**
 
-- 👨‍💻 All of my projects are available at [not available yet :(](not available yet :()
-
-- 📫 How to reach me **ibrahimfarhanshlaka@gmail.com**
+- 📫 You can reach out to me at **ibrahimfarhanshlaka@gmail.com**
 
 - ⚡ Fun fact **im pretty good in blender :)**
 
