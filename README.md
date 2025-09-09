@@ -4,20 +4,19 @@
 ---
 
 <p align="center"> <a href="https://twitter.com/lshape_shifterl" target="blank"><img src="https://img.shields.io/twitter/follow/lshape_shifterl?logo=twitter&style=for-the-badge" alt="lshape_shifterl" /></a> </p>
+<p align="center"> <a href="https://www.instagram.com/shapeshifterl/" target="blank"><img src="https://img.shields.io/twitter/follow/shape_shifterl?logo=twitter&style=for-the-badge" alt="shape_shifterl" /></a> </p>
 
 - 👨‍🎓 Currently studying at **Yildiz Technical University**
 
 - 🔭 I’m currently working on [an interactive spatial data structures website](https://spatialdatastructures.netlify.app/)
 
-- 🌱 I’m currently learning **python, javascript, and more**
+- 🌱 I’m currently learning **React, Javascript, tailwind css, and more.**
 
 - 📫 You can reach out to me at **ibrahimfarhanshlaka@gmail.com**
 
-- ⚡ Fun fact **im pretty good in blender :)**
+- ⚡ Fun fact **im also a 3D designer :)**
   
-- All my blender projects are [here](https://www.cgtrader.com/engigraph)
-  
-- and if you would like a commission then contact me at **engigraph@gmail.com**
+- All my 3D projects are [here](https://www.cgtrader.com/engigraph)
 
 <h3 align="center">Connect with me:</h3>
 
