@@ -38,6 +38,7 @@
 
 <p align="center"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
 <kbd> <img align="center" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </kbd> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+<kbd> <img align="center" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="blender" width="40" height="40"/> </kbd> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 <kbd> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </kbd> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <kbd><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></kbd> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> 
 <kbd><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/></kbd> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
