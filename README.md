@@ -2,15 +2,13 @@
 <h3 align="center">Computer engineer & 3D designer</h3>
 
 ---
-
-<p align="center"> <a href="https://twitter.com/lshape_shifterl" target="blank"><img src="https://img.shields.io/twitter/follow/lshape_shifterl?logo=twitter&style=for-the-badge" alt="lshape_shifterl" /></a> </p>
 <p align="center"> <a href="https://www.instagram.com/shapeshifterl/" target="blank"><img src="https://img.shields.io/twitter/follow/shape_shifterl?logo=twitter&style=for-the-badge" alt="shape_shifterl" /></a> </p>
 
 - 👨‍🎓 Currently studying at **Yildiz Technical University**
 
 - 🔭 I’m currently working on [an interactive spatial data structures website](https://spatialdatastructures.netlify.app/)
 
-- 🌱 I’m currently learning **React, Javascript, tailwind css, and more.**
+- 🌱 I’m currently learning **React, Javascript, and more.**
 
 - 📫 You can reach out to me at **ibrahimfarhanshlaka@gmail.com**
 
