@@ -45,7 +45,6 @@
 <kbd><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></kbd> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
 <kbd><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </kbd></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <kbd><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></kbd> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-<kbd><img align="center" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></kbd> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
 <kbd><img align="center" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></kbd> </a> </p>
 
 <p align="center"> <kbd> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahim-farhan-shlaka&show_icons=true&locale=en&layout=compact" alt="ibrahim-farhan-shlaka"/> </kbd> </p>
