@@ -5,7 +5,7 @@
 <p align="center"> <a href="https://www.instagram.com/shapeshifterl/" target="blank"><img src="https://img.shields.io/twitter/follow/shape_shifterl?logo=twitter&style=for-the-badge" alt="shape_shifterl" /></a> </p>
 
 - 👨‍🎓 Currently studying at **Yildiz Technical University**
-
+ 
 - 🔭 I’m currently working on [an interactive spatial data structures website](https://spatialdatastructures.netlify.app/)
 
 - 🌱 I’m currently learning **React, Javascript, and more.**
