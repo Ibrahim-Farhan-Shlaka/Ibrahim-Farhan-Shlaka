@@ -8,7 +8,7 @@
  
 - 🔭 I’m currently working on [an interactive spatial data structures website](https://spatialdatastructures.netlify.app/)
 
-- 🌱 I’m currently learning **React, Javascript, and more.**
+- 🌱 I’m currently learning **React, Javascript, tailwindCss and more.**
 
 - 📫 You can reach out to me at **ibrahimfarhanshlaka@gmail.com**
 
