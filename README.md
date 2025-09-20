@@ -12,7 +12,7 @@
 
 - 📫 You can reach out to me at **ibrahimfarhanshlaka@gmail.com**
 
-- ⚡ Fun fact **im also a 3D designer :)**
+- ⚡ **im also a 3D designer :)**
   
 - All my 3D projects are [here](https://www.cgtrader.com/engigraph)
 
