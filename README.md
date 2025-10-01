@@ -6,7 +6,7 @@
 
 - 👨‍🎓 Currently studying at **Yildiz Technical University**
  
-- 🔭 I’m currently working on [an interactive spatial data structures website](https://spatialdatastructures.netlify.app/)
+- 🔭 I’m currently working on [an interactive spatial data structures website](https://spatialdatastructures.netlify.app/) 
 
 - 🌱 I’m currently learning **React, Javascript, tailwindCss and more.**
 
