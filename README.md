@@ -1,5 +1,5 @@
-<h1 align="center">Ibrahim Farhan Shlaka</h1>
-<h3 align="center">Computer engineer & 3D designer</h3>
+<h1 align="center">- Ibrahim Farhan Shlaka -</h1>
+<h3 align="center">Computer engineering student & 3D designer</h3>
 
 ---
 <p align="center"> <a href="https://www.instagram.com/shapeshifterl/" target="blank"><img src="https://img.shields.io/twitter/follow/shape_shifterl?logo=twitter&style=for-the-badge" alt="shape_shifterl" /></a> </p>
