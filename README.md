@@ -4,15 +4,15 @@
 ---
 <p align="center"> <a href="https://www.instagram.com/shapeshifterl/" target="blank"><img src="https://img.shields.io/twitter/follow/shape_shifterl?logo=twitter&style=for-the-badge" alt="shape_shifterl" /></a> </p>
 
-- 👨‍🎓 Currently studying at **Yildiz Technical University**
+- Graduated from **Yildiz Technical University** Computer engineering
  
-- 🔭 I’m currently working on [an Educational interactive spatial data structures website](https://spatialdatastructures.netlify.app/) 
+- I’m currently working on [an Educational interactive spatial data structures website](https://spatialdatastructures.netlify.app/) 
 
-- 🌱 I’m currently learning **React, Javascript, tailwindCss and more.**
+- I’m currently learning **React, Javascript, tailwindCss and more.**
 
-- 📫 You can reach out to me at **ibrahimfarhanshlaka@gmail.com**
+- You can reach out to me at **ibrahimfarhanshlaka@gmail.com**
 
-- ⚡ **im also a 3D designer :)**
+- **im also a 3D designer :)**
   
 - All my 3D projects are [here!!](https://www.cgtrader.com/engigraph)
 
